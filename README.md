@@ -1,5 +1,5 @@
 # Caso-de-negocio-MarketNow-plataforma-de-e-commerce
-# MarketNow es una tienda en línea que permite a múltiples vendedores publicar productos y a clientes registrados realizar compras. La plataforma gestiona el catálogo de productos, el proceso de compra, los pagos, los envíos y las reseñas.
+MarketNow es una tienda en línea que permite a múltiples vendedores publicar productos y a clientes registrados realizar compras. La plataforma gestiona el catálogo de productos, el proceso de compra, los pagos, los envíos y las reseñas.
 # Reglas del negocio clave:
 Un cliente puede tener múltiples direcciones de envío registradas.
 Un pedido puede contener varios productos (de distintos vendedores).
